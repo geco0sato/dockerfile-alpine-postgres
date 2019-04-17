@@ -1,2 +1,2 @@
 # dockerfile-alpine-postgres
-Laravel Dockerfile using Alpine.
+Postgres Dockerfile using Alpine.
